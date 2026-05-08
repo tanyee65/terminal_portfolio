@@ -45,9 +45,6 @@ clear      - 清空畫面
 📌 貪食蛇小遊戲
 🌐 <a href="https://tanyee65.github.io/SnakeGame/" target="_blank">查看專案</a>
 
-📌 圍棋資訊網站
-🌐 <a target="_blank" href="./project1/index.html">查看專案</a>
-
 📌 少兒 BMI 計算APP
 🌐 <a href="https://github.com/tanyee65/Children_BMIApp" target="_blank">查看專案</a>
 
